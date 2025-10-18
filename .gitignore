@@ -1,0 +1,7 @@
+.venv/
+models/
+voices/
+huggingface/
+torch/
+modelscope/
+.installed
